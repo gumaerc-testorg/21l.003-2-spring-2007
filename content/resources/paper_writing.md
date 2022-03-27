@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 851a2c9f-5c9e-ae20-7a9c-244ad086fff1
 resourcetype: Document
 title: General Paper-Writing Guidelines
 uid: 81b56f69-540a-1f97-a188-94e2f56cf515
