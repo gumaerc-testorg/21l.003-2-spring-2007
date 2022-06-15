@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and overview, and
+  information on course expectations and grading, plagiarism, recommended citation,
+  and a calendar of lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -102,7 +105,7 @@ Plagiarism-use of another's intellectual work without acknowledgement-is a serio
 Calendar
 --------
 
-Please see [readings]({{< baseurl >}}/pages/readings) for more detailed information about the texts mentioned below.
+Please see {{% resource_link 38952923-9666-2d78-3136-74f3e3157515 "readings" %}} for more detailed information about the texts mentioned below.
 
 {{< tableopen >}}
 {{< theadopen >}}
