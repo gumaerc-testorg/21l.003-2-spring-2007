@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section features a list of the required texts and readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 38952923-9666-2d78-3136-74f3e3157515
 ---

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains instructions for the four papers and the oral presentation.
+  General guidelines are also included.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 851a2c9f-5c9e-ae20-7a9c-244ad086fff1
 ---
@@ -9,10 +14,10 @@ Guidelines
 
 ### Argument and Analysis
 
-General Paper Writing Guidelines ([PDF]({{< baseurl >}}/resources/paper_writing))  
+General Paper Writing Guidelines ({{% resource_link 81b56f69-540a-1f97-a188-94e2f56cf515 "PDF" %}})  
 (Courtesy of Alisa K. Braithwaite and Laura Thiemann Scales. Used with permission.)
 
-Close Reading ([PDF]({{< baseurl >}}/resources/close_reading))  
+Close Reading ({{% resource_link 153b7fe3-b63b-747e-c621-d6996a942ebd "PDF" %}})  
 (Courtesy of Alisa K. Braithwaite and Andrea Zemgulys. Used with permission.)
 
 ### Formatting Guidelines
