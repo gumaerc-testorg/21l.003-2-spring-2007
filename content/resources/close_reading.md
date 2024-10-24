@@ -2,7 +2,7 @@
 content_type: resource
 description: General guidelines on close reading, courtesy of Alisa K. Braithwaite
   and Andrea Zemgulys. Used with permission.
-file: /courses/21l-003-2-reading-fiction-spring-2007/153b7fe3b63b747ec621d6996a942ebd_close_reading.pdf
+file: /ol-ocw-studio-app/courses/21l-003-2-reading-fiction-spring-2007/153b7fe3b63b747ec621d6996a942ebd_close_reading.pdf
 file_size: 68415
 file_type: application/pdf
 learning_resource_types:
