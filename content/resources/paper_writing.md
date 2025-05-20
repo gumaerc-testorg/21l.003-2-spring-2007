@@ -2,7 +2,7 @@
 content_type: resource
 description: General guidelines for writing papers, courtesy of Alisa K. Braithwaite
   and Laura Thiemann Scales. Used with permission.
-file: /ol-ocw-studio-app/courses/21l-003-2-reading-fiction-spring-2007/81b56f69540a1f97a18894e2f56cf515_paper_writing.pdf
+file: /courses/21l-003-2-reading-fiction-spring-2007/81b56f69540a1f97a18894e2f56cf515_paper_writing.pdf
 file_size: 28336
 file_type: application/pdf
 learning_resource_types:
