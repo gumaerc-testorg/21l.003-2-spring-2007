@@ -113,7 +113,7 @@ _Go Tell it on the Mountain,_ pp. 177-end
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Joyce, _The Dubliners_: "[The Sisters](http://www.sparknotes.com/lit/dubliners/section1.rhtml)," "[Araby](http://www.sparknotes.com/lit/dubliners/section3.rhtml)," "[Eveline](http://www.sparknotes.com/lit/dubliners/section4.rhtml)"
+Joyce, _The Dubliners_: "{{% resource_link "e3881995-c94e-40c6-8901-6c7998938033" "The Sisters" %}}," "{{% resource_link "0bd990ab-a0e9-4958-bd41-95f703acf6a7" "Araby" %}}," "{{% resource_link "9ca8d751-fe3f-44f1-a1e5-7b25579d36c3" "Eveline" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +122,7 @@ Joyce, _The Dubliners_: "[The Sisters](http://www.sparknotes.com/lit/dubliners/s
 12
 {{< tdclose >}}
 {{< tdopen >}}
-_The Dubliners_: "[Two Gallants](http://www.sparknotes.com/lit/dubliners/section6.rhtml)," "[A Painful Case](http://www.sparknotes.com/lit/dubliners/section11.rhtml)," "[Ivy Day in the Committee Room](http://www.sparknotes.com/lit/dubliners/section12.rhtml)," "[A Mother](http://www.sparknotes.com/lit/dubliners/section13.rhtml)"
+_The Dubliners_: "{{% resource_link "a1f07a2b-5b3d-4c0b-8438-6ad6327b63ee" "Two Gallants" %}}," "{{% resource_link "60105653-4ae4-4b63-88e6-00982509d014" "A Painful Case" %}}," "{{% resource_link "b90cb60d-75f1-4074-80a1-4cfac5e260bc" "Ivy Day in the Committee Room" %}}," "{{% resource_link "de63db60-13a4-4959-a01e-cd3e4c53707c" "A Mother" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +131,7 @@ _The Dubliners_: "[Two Gallants](http://www.sparknotes.com/lit/dubliners/section
 13
 {{< tdclose >}}
 {{< tdopen >}}
-_The Dubliners_: "[The Dead](http://www.sparknotes.com/lit/dubliners/section15.rhtml)"
+_The Dubliners_: "{{% resource_link "88affb7f-3268-4973-9d43-87cee55187eb" "The Dead" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +149,7 @@ Kincaid, _Lucy_
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Dostoevsky, _Crime and Punishment_ [Part One](http://www.shmoop.com/crime-and-punishment/part-1-chapter-1-full-text.html)
+Dostoevsky, _Crime and Punishment_ {{% resource_link "acfab5b5-10b7-4a87-81e2-38890247c64f" "Part One" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +158,7 @@ Dostoevsky, _Crime and Punishment_ [Part One](http://www.shmoop.com/crime-and-pu
 17
 {{< tdclose >}}
 {{< tdopen >}}
-_Crime and Punishment_ [Part Two](http://www.shmoop.com/crime-and-punishment/part-2-chapter-1-full-text.html)
+_Crime and Punishment_ {{% resource_link "b15eb687-f054-44fa-9607-ebe4cd7cadbc" "Part Two" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +167,7 @@ _Crime and Punishment_ [Part Two](http://www.shmoop.com/crime-and-punishment/par
 18
 {{< tdclose >}}
 {{< tdopen >}}
-_Crime and Punishment_ [Part Three](http://www.shmoop.com/crime-and-punishment/part-3-chapter-1-full-text.html)
+_Crime and Punishment_ {{% resource_link "5439ee97-3be3-402c-b475-405581aa2bad" "Part Three" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +176,7 @@ _Crime and Punishment_ [Part Three](http://www.shmoop.com/crime-and-punishment/p
 19
 {{< tdclose >}}
 {{< tdopen >}}
-_Crime and Punishment_ [Part Four](http://www.shmoop.com/crime-and-punishment/part-4-chapter-1-full-text.html)
+_Crime and Punishment_ {{% resource_link "a7c49036-673b-4e83-aaf9-ab9367d14848" "Part Four" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +185,7 @@ _Crime and Punishment_ [Part Four](http://www.shmoop.com/crime-and-punishment/pa
 20
 {{< tdclose >}}
 {{< tdopen >}}
-_Crime and Punishment_ [Part Five](http://www.shmoop.com/crime-and-punishment/part-5-chapter-1-full-text.html)
+_Crime and Punishment_ {{% resource_link "0de7b937-370a-4583-82b1-8fbbaa959bd6" "Part Five" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +194,7 @@ _Crime and Punishment_ [Part Five](http://www.shmoop.com/crime-and-punishment/pa
 21
 {{< tdclose >}}
 {{< tdopen >}}
-_Crime and Punishment_ [Part Six](http://www.shmoop.com/crime-and-punishment/part-6-chapter-1-full-text.html) and [Epilogue](http://www.sparknotes.com/lit/crime/section13.rhtml)
+_Crime and Punishment_ {{% resource_link "12199a51-de33-45dc-8ab7-ba5cbeaac38c" "Part Six" %}} and {{% resource_link "4c7ab918-c738-4133-bc45-e458ece160a7" "Epilogue" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +243,7 @@ Díaz. _Drown_: "Ysrael," "Fiesta, 1980," "Drown"
 
 _Drown_: "Boyfriend," "How to Date a Browngirl, Blackgirl, Whitegirl, or Halfie," "Negocios"
 
-Listen to Díaz read "How to Date a Browngirl, Blackgirl, Whitegirl, or Halfie" in Act Two of Episode 94 of the radio show [_This American Life_](http://www.thisamericanlife.org/Radio_Episode.aspx?sched=771).
+Listen to Díaz read "How to Date a Browngirl, Blackgirl, Whitegirl, or Halfie" in Act Two of Episode 94 of the radio show {{% resource_link "2533ea7e-c8a6-43d2-b69d-f77ef262aea2" "_This American Life_" %}}.
 
 
 {{< tdclose >}}
